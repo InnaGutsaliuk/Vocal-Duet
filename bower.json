@@ -1,0 +1,24 @@
+{
+  "name": "Vocal-Duet",
+  "authors": [
+    "Inna <Innlinag@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "less": "^3.10.3",
+    "lesshat": "^4.1.0",
+    "bootstrap": "^4.3.1",
+    "fancybox": "fancyBox#^3.5.7"
+  }
+}
